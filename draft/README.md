@@ -11,7 +11,7 @@
 6.  train a model (nn)
 7.  regression
 8.  classification
-9. save and load
+9.  save and load
 ```
 
 ```
